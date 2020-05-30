@@ -1,1 +1,25 @@
-{ "date": "2020-10-04", "name": "Kanelbullens dag" }
+{
+  "data": [
+    { "date": "2020-02-05", "name": "Nutelladagen" },
+    { "date": "2020-02-25", "name": "Fettisdagen" },
+    { "date": "2020-03-07", "name": "Punschrullens dag" },
+    { "date": "2020-03-13", "name": "Mazarindagen" },
+    { "date": "2020-03-25", "name": "Våffeldagen" },
+    { "date": "2020-04-12", "name": "Lakritsdagen" },
+    { "date": "2020-04-20", "name": "Polkagrisens dag" },
+    { "date": "2020-05-11", "name": "Chokladbollens dag" },
+    { "date": "2020-05-15", "name": "Kardemummabullens dag" },
+    { "date": "2020-05-27", "name": "Muffinsdagen" },
+    { "date": "2020-08-09", "name": "Rulltårtans dag" },
+    { "date": "2020-09-29", "name": "Kaffedagen" },
+    { "date": "2020-10-04", "name": "Kanelbullens dag" },
+    { "date": "2020-10-04", "name": "Gräddtårtans dag" },
+    { "date": "2020-10-18", "name": "Chokladmuffinsens dag" },
+    { "date": "2020-11-07", "name": "Kladdkakans dag" },
+    { "date": "2020-11-11", "name": "Chokladens dag" },
+    { "date": "2020-11-14", "name": "Ostkakans dag" },
+    { "date": "2020-11-22", "name": "Wienerbrödets dag" },
+    { "date": "2020-12-09", "name": "Pepparkakans dag" },
+    { "date": "2020-12-18", "name": "Kakans dag" }
+  ]
+}
